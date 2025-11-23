@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @Cript01
-- 👀 I’m interested in ...
+- 👋 Olá, eu sou o @Cript01
+- 👀 I’m interested in ..
 -   Sou novato aqui!! 12 de agosto
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+- 💞️ I’m looking to collaborate on ..
+- 📫 How to reach me ..
+- 😄 Pronouns: ..
+- ⚡ Fun fact: ..
 
 <!---
 Cript01/Cript01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
